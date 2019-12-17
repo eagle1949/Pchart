@@ -1,0 +1,17 @@
+.content .markdown-section{
+    width: 100%;
+    max-width: unset;
+}
+main > .sidebar-toggle{
+    z-index: 999;
+}
+
+.vuep-jsfiddle, .vuep-codepen{
+    display: none!important;
+}
+
+::-webkit-scrollbar {width: 5px; height: 100%;background-color: #eee;}
+::-webkit-scrollbar-thumb {/*滚动条里面小方块*/border-radius: 10px;-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);background: rgba(0,0,0,.2);}
+::-webkit-scrollbar-track {/*滚动条里面轨道*/-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);border-radius: 10px;background: rgba(0,0,0,.1);;}
+
+.vuep-preview [_echarts_instance_] {margin: auto;}

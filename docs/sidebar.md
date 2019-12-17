@@ -1,0 +1,17 @@
+- 指南
+ - [介绍](/intro)
+ - [开始使用](/start)
+ - [颜色](/color)
+ - [事件](/event)
+- 图表
+  - [饼图](/pie)
+  - [折线图](/line)
+  - [柱状图](/bar)
+  - [堆叠图](/stackBar)
+  - [条纹图](/stripeBar)
+  - [圆柱图](/cylinderBar)
+  - [热力图](/heatmap)
+  - [雷达图](/radar)
+  - [桑基图](/Sankey)
+- 业务示例
+  - [水环境](/water)
